@@ -1,6 +1,7 @@
 # campo_mindado
 
-A new Flutter project.
+Projeto de Flutter com base no video do Cod3r:
+https://www.youtube.com/watch?v=i3w3Wnouowo
 
 ## Getting Started
 
